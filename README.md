@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="left">
-  Professionally, I am a data engineer, continuously learning and exploring different areas in data engineering to refine my craft. Personally, I enjoy working on my home server, and exploring open-source projects as alternatives to proprietary websites and software. This helps protect my data from big companies and avoid paying for services that can be achieved with some effort. I am also transitioning completely from Windows to Linux on my desktop, exploring various Linux options to ensure I don't need to return to Windows for personal use. This profile focuses on these pursuits and my personal learning journey.
+  Professionally, I am a data engineer, continuously learning and exploring different areas in data engineering to refine my craft. Personally, I enjoy working on my home server, and exploring open-source projects as alternatives to proprietary websites and software. This helps protect my data from big companies and avoid paying for services that can be achieved with some effort. This profile focuses on these pursuits and my personal learning journey.
 </h3>
 
 <p align="center">
